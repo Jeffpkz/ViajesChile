@@ -1,8 +1,31 @@
 body {
     background-color: #000000;
     font-family: 'Open Sans', sans-serif;
+    color: #ffffff;
+    margin: 0;
+	padding:0;
+    text-align: center;
+
 }
 
 .navbar-auto {
     font-size:large;
+}
+
+.cabezal {
+    width:100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-bottom: 5rem;
+
+}
+
+h2 {
+    padding-bottom: 2rem;
+}
+
+ul {
+
+    height : 12%;
+    padding-top: 4px;
 }
