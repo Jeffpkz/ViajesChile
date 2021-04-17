@@ -18,12 +18,14 @@ body {
 /*estructura Carousel */
 
 .cabezal {
+
     width:100%;
     background-size: cover;
     background-repeat: no-repeat;
     padding-bottom: 5rem;
 
 }
+
 /*Subtitulos de la web */
 
 h2 {
@@ -46,6 +48,8 @@ ul {
 
 .card-body-2 {
     background-color: #17a2b8;
+    padding-bottom: 2rem;
+    padding-top: 1rem;
 
 }
 
