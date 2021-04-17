@@ -51,3 +51,19 @@ ul {
 .card-text {
     font-size: 15px;
 }
+
+.centrado {
+    display: inline-block;
+    width: 55%;
+    font-size: 30px;
+    }
+
+.viajes {
+    margin-right: 220px;
+}
+
+.iconos {
+    margin-left: 220px;
+}
+
+
