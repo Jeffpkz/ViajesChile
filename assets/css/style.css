@@ -6,6 +6,7 @@ body {
 	padding:0;
     text-align: center;
 
+
 }
 
 .navbar-auto {
@@ -22,10 +23,31 @@ body {
 
 h2 {
     padding-bottom: 2rem;
+    text-align: center;
 }
 
 ul {
 
     height : 12%;
     padding-top: 4px;
+}
+
+.col {
+    color: #000000;
+}
+
+.card-body-2 {
+    background-color: #17a2b8;
+
+}
+
+.card-title {
+
+    font-weight: 400;
+    font-size: 25px;
+    
+}
+
+.card-text {
+    font-size: 15px;
 }
