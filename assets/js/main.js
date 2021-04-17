@@ -1,5 +1,7 @@
 $(function(){
 
+    /*Codigo del Smooth Scrolling */
+
     $("a").click(function(event){
     if(this.hash !==""); {
     event.preventDefault();
@@ -14,5 +16,10 @@ $(function(){
     
     }
     });
+
+    /*Creacion del tooltip en las CARDS seccion Destacados*/
+
+    $('[data-toggle="popover"]') .popover ();
+    
 });
 

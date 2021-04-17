@@ -9,9 +9,13 @@ body {
 
 }
 
+/* Barra Menu superior*/
+
 .navbar-auto {
     font-size:large;
 }
+
+/*estructura Carousel */
 
 .cabezal {
     width:100%;
@@ -20,17 +24,21 @@ body {
     padding-bottom: 5rem;
 
 }
+/*Subtitulos de la web */
 
 h2 {
     padding-bottom: 2rem;
     text-align: center;
 }
 
+/* Barra de Color en columnas de Quienes somos*/
+
 ul {
 
     height : 12%;
     padding-top: 4px;
 }
+/* Estructura de las CARDS Destacados*/
 
 .col {
     color: #000000;
@@ -51,6 +59,8 @@ ul {
 .card-text {
     font-size: 15px;
 }
+
+/*Estructuracion del Footer */
 
 .centrado {
     display: inline-block;
